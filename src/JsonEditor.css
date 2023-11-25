@@ -1,0 +1,7 @@
+.json-editor{
+    width:40vw;
+}
+.json-editor textarea{
+    width:40vw;
+    height:100vh;
+}
